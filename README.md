@@ -11,6 +11,7 @@
 3. Initial Data Exploration
 
 > The structure and summary of the dataset are explored.
+
                .head() shows the first few records.
                .describe() provides statistical summaries (mean, min, max, etc.).
                .unique() lists all unique country or region names under the 'Country/Region' column.
